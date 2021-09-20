@@ -1,0 +1,36 @@
+@import url("https://cdn.syncfusion.com/ej2/material.css");
+
+.tp{
+    padding:0%;
+    display: flex;
+}
+.title{
+    padding-left: 5px;
+    padding-right:5px;
+}
+.constraints{
+    display: flex;
+    width: 100%;
+}
+.butt{
+    margin-right: 10px;
+}
+.but{
+    padding: 0rem 1.9rem !important;
+}
+.row2{
+    padding-left: 2%;
+}
+.img{
+    size: auto;
+}
+.my-5{
+    padding-left: 3%;
+}
+img{
+    display: block;
+    width: auto;
+    height: auto;
+    max-width: 150px;
+    max-height: 150px;
+}

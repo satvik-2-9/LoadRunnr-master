@@ -1,0 +1,17 @@
+.head{
+    padding:5% ; 
+    align-items: center;
+    text-align: left;
+    font-size: 2rem;
+    font-weight: bolder;
+}
+.butt{
+    margin-left: 3%;
+}
+img{
+    display: block;
+    width: auto;
+    height: auto;
+    max-width: 150px;
+    max-height: 150px;
+}
